@@ -11,3 +11,6 @@ This is a curated list of AI Resources for Moodle.
 
 ## Question Types
 * [AI Text](marcusgreen-moodle-qtype_aitext)
+
+## Playgrounds
+* [Learning Tools AI Playground](brianlmerritt-learning_tools_ai_playground)
