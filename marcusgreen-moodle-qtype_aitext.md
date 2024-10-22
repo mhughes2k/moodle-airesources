@@ -1,4 +1,4 @@
-# Pruju AI
+# AI Text Question Type
 Status: Demonstration|Production
 
 ## Repository
