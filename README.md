@@ -4,7 +4,7 @@ This is a Work In Progress!
 
 This is a curated list of AI Resources for Moodle.
 
- See also [https://github.com/marcusgreen/moodle-tool_aiconnect/wiki/Other-AI-Plugins]
+ See also https://github.com/marcusgreen/moodle-tool_aiconnect/wiki/Other-AI-Plugins
 
 ## Connectors / Provider plugins
 * Moodle 4.5
